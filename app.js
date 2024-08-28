@@ -3,3 +3,4 @@ console.log(1 + 2);
 console.log("abc");
 console.log("def");
 console.log("112");
+console.log("hij");
